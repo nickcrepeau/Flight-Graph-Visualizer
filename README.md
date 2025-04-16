@@ -1,5 +1,5 @@
 # Flight Graph Visualer
-This application runs in a console and displays one of three chosen graphs in a seperate window based on flight data. The three options are: "Altitude vs Horizontal Distance", "Altitude vs Time", and "Flight Speed vs Time". After the graph is printed, the data from the graph is output to a text file named "output.txt".  
+This application runs in a console and displays one of three chosen graphs in a separate window based on flight data. The three options are: "Altitude vs Horizontal Distance", "Altitude vs Time", and "Flight Speed vs Time". After the graph is printed, the data from the graph is output to a text file named "output.txt".  
   
 The program was created in C++ utilizing Visual Studio.  
   
